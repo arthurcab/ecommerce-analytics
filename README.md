@@ -22,7 +22,7 @@ Simulate a realistic e-commerce environment by incorporating diverse data source
 - Customer Reviews (scraped from the web or simulated)
 - Social Media Interactions (if applicable, scraped or simulated)
 
-###External Data:
+### External Data:
 - Marketing Campaign Data (if applicable, CSV or JSON)
 - Economic Indicators (if relevant to your analysis, from public APIs)
 - Extraction Challenges:
