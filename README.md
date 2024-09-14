@@ -8,11 +8,11 @@ This is project uses synthetic ecommerce data to showcase tools and techniques t
 
 ### Variety of Sources:
 Simulate a realistic e-commerce environment by incorporating diverse data sources:
+- ~Customer Information~ (CSV)
 - Transactional Data:
 - Orders (CSV or JSON)
 - Payments (CSV or JSON)
 - Shipments (CSV or JSON)
-- Customer Information (CSV or JSON)
 - Product Catalog (CSV or JSON)
 - Inventory (CSV or JSON)
 
