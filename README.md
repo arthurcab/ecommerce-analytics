@@ -15,26 +15,26 @@ This project focuses on building an end-to-end churn prediction model for an e-c
 
 ### Synthetic Data Generation
     
-    - Generate e-commerce data including customers, products, orders, and website interactions using Python libraries like faker, numpy, and pandas.
+- Generate e-commerce data including customers, products, orders, and website interactions using Python libraries like faker, numpy, and pandas.
 
-    - Implement multiple churn patterns (sudden and gradual) with varying decline functions to create a diverse and realistic dataset.
+- Implement multiple churn patterns (sudden and gradual) with varying decline functions to create a diverse and realistic dataset.
 
 ### Data Exploration and Analysis
 
-    - Conduct exploratory data analysis (EDA) to understand the characteristics of the generated data.
+- Conduct exploratory data analysis (EDA) to understand the characteristics of the generated data.
 
-    - Visualize churn patterns and identify key features that might be indicative of churn.
+- Visualize churn patterns and identify key features that might be indicative of churn.
 
 ### Churn Prediction Model Development
 
-    - Preprocess the data and engineer relevant features for churn prediction.
-    - Train and evaluate various machine learning models (e.g., logistic regression, decision trees, random forests) to predict customer churn.
-    - Select the best-performing model based on evaluation metrics.
+- Preprocess the data and engineer relevant features for churn prediction.
+- Train and evaluate various machine learning models (e.g., logistic regression, decision trees, random forests) to predict customer churn.
+- Select the best-performing model based on evaluation metrics.
 
 ### Streamlit Deployment
-    - Build an interactive Streamlit application to:
-        - Visualize key metrics and insights from the data.
-        - Make predictions using the trained churn model.
+- Build an interactive Streamlit application to:
+    - Visualize key metrics and insights from the data.
+    - Make predictions using the trained churn model.
 
 ### Project Goals:
 
@@ -45,20 +45,30 @@ This project focuses on building an end-to-end churn prediction model for an e-c
 
 ### Current Progress:
 
-[x] Synthetic data generation with multiple churn patterns implemented.
+[x] ~Synthetic data generation with multiple churn patterns implemented.~
+
 [] Initial data exploration and visualization
+
 [] Model development
+
 [] Continue with feature engineering and model training.
+
 [] Fine-tune the selected model and evaluate its performance.
+
 [] Develop the Streamlit application for interactive visualization and prediction.
 
 ### Technologies Used:
 
 Python
+
 Faker
+
 NumPy
+
 Pandas
+
 Scikit-learn
+
 Streamlit
 
 ### How to Run (Once Completed):
